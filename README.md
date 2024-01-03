@@ -10,7 +10,6 @@ Increase the read-ahead buffer
 🔸Added power save mode function via terminal
 🔸Optimizes RAM Enhanced
 
-🔶🔶🔸🔸🔸🔸🔸🔸🔸🔸🔸🔶🔶
 
 Changes and use this script at your own risk ! !
 
