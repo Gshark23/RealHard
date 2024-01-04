@@ -2,13 +2,19 @@
 VTEC_Dynamic
 Tweak Snapdragon
 🔸Optimize SQLite settings for faster database access !!
-Increase the read-ahead buffer
+Increase the read-ahead buffer.
+
 🔸Reduce the delay when opening the application.
+
 🔸Use anti-aliasing for textures, with multisampling for improved quality.
+
 🔸Use Optimized GPU processing mode to render performance graphics. 
+
 🔸Changes a parameter in the workqueue kernel module to make it more power efficient.
-🔸Added power save mode function via terminal
-🔸Optimizes RAM Enhanced
+
+🔸Added power save mode function via terminal.
+
+🔸Optimizes RAM Enhanced.
 
 
 Changes and use this script at your own risk ! !
